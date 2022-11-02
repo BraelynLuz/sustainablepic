@@ -19,6 +19,7 @@
 <A href="https://www.bbc.com/news/world/asia/china/">BBC-ZHN</A><br>
 <A href="https://www.reuters.com/world/china/">Reuters</A><br>
 <A href="https://www.theguardian.com/world/china/">The Guardian</A><br>
+<A href="https://www.economist.com/china/">The Economist</A><br>
 <A href="https://www.ftchinese.com/channel/china.html">Financial Times $</A><br>
 <A href="https://www.ft.com/world/asia-pacific/china/">Financial Times - CHN $</A><br>
 <br>
