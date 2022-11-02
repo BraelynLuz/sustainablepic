@@ -81,6 +81,10 @@
 |-
 | &nbsp; || [https://www.theguardian.com/world/china/ CHN]
 |-
+| '''The Economist''' ||  [https://zh.wikipedia.org/wiki/经济学人 Wiki]
+|-
+| &nbsp; || [https://www.economist.com/china/ CHN]
+|-
 | '''Financial Times''' || [https://zh.wikipedia.org/wiki/金融時報_(英國) Wiki]
 |-
 | &nbsp; || [https://www.ftchinese.com/channel/china.html CN Page]
