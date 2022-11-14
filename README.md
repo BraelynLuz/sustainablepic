@@ -1,7 +1,9 @@
 <H2>European News Agency</H2>
 <A href="https://www.rfi.fr/cn/中国/">Radio France Internationale</A><br>
 <A href="https://www.dw.com/zh/">Deutsche Welle</A><br>
+<A href="hhttps://chinese.aljazeera.net/">Al Jazeera</A><br>
 <A href="https://news.mail.ru/">Mail.ru*</A><br>
+<A href="https://sputniknews.cn/">Sputnik news agency & radio*</A><br>
 <br>
 <H2>American News Agency</H2>
 <A href="https://cn.nytimes.com/">New York Times</A><br>
@@ -25,6 +27,7 @@
 <br>
 <H2>Asia Pacific News Agency</H2>
 <A href="https://www.abc.net.au/news/chinese/">Australian Broadcasting Corporation</A><br>
+<A href="https://www.sbs.com.au/language/chinese/zh-hans/">Special Broadcasting Service</A><br>
 <A href="https://www.channelnewsasia.com/asia">Channel News Asia</A><br>
 <A href="https://www.scmp.com/news/china">South China Morning Post</A><br>
 <A href="https://www.cna.com.tw/list/acn.aspx">Central News Agency</A><br>
@@ -33,6 +36,7 @@
 <A href="https://www3.nhk.or.jp/nhkworld/en/news/tags/30/">Nippon Hoso Kyokai*</A><br>
 <A href="https://china.kyodonews.net/">Kyodo News*</A><br>
 <A href="https://www.asahi.com/">Asahi Shimbun* $</A><br>
+<A href="https://asia.nikkei.com/Location/East-Asia/China/">Nihon keizai shinbun</A><br>
 <br>
 <H2>U.S. Agency for Global Media</H2>
 <A href="https://www.voachinese.com/">Voice of America</A><br>
