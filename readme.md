@@ -1,7 +1,7 @@
 <H2>European News Agency</H2>
 <A href="https://www.rfi.fr/cn/中国/">Radio France Internationale</A><br>
 <A href="https://www.dw.com/zh/">Deutsche Welle</A><br>
-<A href="hhttps://chinese.aljazeera.net/">Al Jazeera</A><br>
+<A href="https://chinese.aljazeera.net/">Al Jazeera</A><br>
 <A href="https://news.mail.ru/">Mail.ru*</A><br>
 <A href="https://sputniknews.cn/">Sputnik news agency & radio*</A><br>
 <br>
