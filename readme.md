@@ -2,8 +2,8 @@
 <A href="https://www.rfi.fr/cn/中国/">Radio France Internationale</A><br>
 <A href="https://www.dw.com/zh/">Deutsche Welle</A><br>
 <A href="https://chinese.aljazeera.net/">Al Jazeera</A><br>
-<A href="https://news.mail.ru/">Mail.ru*</A><br>
 <A href="https://sputniknews.cn/">Sputnik news agency & radio*</A><br>
+<A href="https://news.mail.ru/">Mail.ru*</A><br>
 <br>
 <H2>American News Agency</H2>
 <A href="https://cn.nytimes.com/">New York Times</A><br>
@@ -49,6 +49,7 @@
 <A href="https://www.radiosawa.com/">Middle East Broadcasting Networks - Radio Sawa*</A><br>
 <br>
 <H2>Overseas Community</H2>
+<A href="https://www.hrw.org/zh-hans">Human Rights Watch</A><br>
 <A href="https://hongkongfp.com/china-news/">Hong Kong Free Press</A><br>
 <A href="https://www.epochtimes.com/">The Epoch Times</A><br>
 <A href="https://news.rthk.hk/rthk/ch/latest-news.htm">Radio Television Hong Kong</A><br>
