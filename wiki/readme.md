@@ -29,6 +29,7 @@
 <A href="https://www.abc.net.au/news/chinese/">Australian Broadcasting Corporation</A><br>
 <A href="https://www.sbs.com.au/language/chinese/zh-hans/">Special Broadcasting Service</A><br>
 <A href="https://www.channelnewsasia.com/asia">Channel News Asia</A><br>
+<A href="https://www.zaobao.com/">Lianhe Zaobao</A><br>
 <A href="https://www.scmp.com/news/china">South China Morning Post</A><br>
 <A href="https://www.cna.com.tw/list/acn.aspx">Central News Agency</A><br>
 <A href="https://www.yna.co.kr/international/china?site=navi_international_depth02">Hapdong News Agency*</A><br>
@@ -64,6 +65,7 @@
 <A href="https://twitter.com/">Twitter</A><br>
 <A href="https://ok.ru/">Odnoklassniki</A><br>
 <A href="https://www.reddit.com/">Reddit</A><br>
+<A href="https://realchina.quora.com/">Quora</A><br>
 <A href="https://www.youtube.com/">YouTube</A><br>
 <A href="https://www.v2ex.com/">V2EX</A><br>
 <br>
