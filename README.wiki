@@ -18,6 +18,10 @@
 | '''Mail.ru*''' ||  [https://zh.wikipedia.org/wiki/Mail.ru Wiki]
 |-
 | Russia || [https://news.mail.ru/ Homepage]
+|-
+| '''Sputnik news agency & radio*''' || [https://zh.wikipedia.org/wiki/俄罗斯卫星通讯社 Wiki]
+|-
+| Russia || [https://sputniknews.cn/ CN Page]
 |}
 
 == American News Agency ==
@@ -59,7 +63,7 @@
 |-
 | '''Yahoo''' ||  [https://zh.wikipedia.org/wiki/雅虎 Wiki]
 |-
-| &nbsp; || [https://hk.yahoo.com/ HK Ppage]
+| &nbsp; || [https://tw.news.yahoo.com/china/ CHN Ppage]
 |}
 
 == UK News Agency ==
@@ -104,6 +108,12 @@
 | '''Channel News Asia''' || CNA [https://zh.wikipedia.org/wiki/亚洲新闻台 Wiki]
 |-
 | Singapore || [https://www.channelnewsasia.com/asia ASIA Page]
+|-
+| '''Al Jazeera''' || [https://zh.wikipedia.org/wiki/半岛电视台 Wiki]
+|-
+| Qatar || [https://www.aljazeera.com/news/ Homepage]
+|-
+| &nbsp; || [https://chinese.aljazeera.net/ CN Page]
 |-
 | '''South China Morning Post''' || [https://zh.wikipedia.org/wiki/南華早報 Wiki]
 |-
@@ -225,7 +235,11 @@
 |-
 | '''Reddit''' || [https://zh.wikipedia.org/wiki/Reddit Wiki]
 |-
-| &nbsp; || [https://www.reddit.com/ Homepage]
+| &nbsp; || [https://www.reddit.com/r/China_irl/ Homepage]
+|-
+| '''Quora''' || [https://zh.wikipedia.org/wiki/Quora Wiki]
+|-
+| &nbsp; || [https://realchina.quora.com/ Homepage]
 |-
 | '''YouTube''' || [https://zh.wikipedia.org/wiki/YouTube Wiki]
 |-
@@ -241,4 +255,5 @@
 &nbsp; $ Subscribe for unlimited access.<br>
 <br>
 If you can't access the * websites, pls refer to <A href="/dns/host.md">DNS</A> to change the host file.<br>
+Available for <A href="/wiki/readme.md">HTML</A>.<br>
 Supported by a great <A href="https://theagora.github.io/news1/news0/">News Aggregation Platform</A>.
