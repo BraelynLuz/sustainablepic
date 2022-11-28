@@ -63,7 +63,7 @@
 |-
 | '''Yahoo''' ||  [https://zh.wikipedia.org/wiki/雅虎 Wiki]
 |-
-| &nbsp; || [https://tw.news.yahoo.com/china/ CHN Ppage]
+| &nbsp; || [https://tw.news.yahoo.com/china/ CHN]
 |}
 
 == UK News Agency ==
@@ -84,6 +84,10 @@
 | '''The Guardian''' ||  [https://zh.wikipedia.org/wiki/衛報 Wiki]
 |-
 | &nbsp; || [https://www.theguardian.com/world/china/ CHN]
+|-
+| '''The Independent''' ||  [https://zh.wikipedia.org/wiki/獨立報_(英國) Wiki]
+|-
+| &nbsp; || [https://www.independent.co.uk/asia/china CHN]
 |-
 | '''The Economist''' ||  [https://zh.wikipedia.org/wiki/经济学人 Wiki]
 |-
@@ -113,7 +117,7 @@
 |-
 | Qatar || [https://www.aljazeera.com/news/ Homepage]
 |-
-| &nbsp; || [https://chinese.aljazeera.net/ CN Page]
+| &nbsp; || [https://chinese.aljazeera.net/ CN Page*]
 |-
 | '''South China Morning Post''' || [https://zh.wikipedia.org/wiki/南華早報 Wiki]
 |-
