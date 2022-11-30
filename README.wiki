@@ -41,9 +41,9 @@
 |-
 | &nbsp; || [https://www.wsj.com/news/types/china-news/ CHN]
 |-
-| '''Associated Press*''' ||  [https://zh.wikipedia.org/wiki/美联社 Wiki]
+| '''Time''' ||  [https://zh.wikipedia.org/wiki/时代杂志 Wiki]
 |-
-| &nbsp; || [https://apnews.com/hub/china/ CHN]
+| &nbsp; || [https://time.com/tag/china/ CHN]
 |-
 | '''Cable News Network*''' || CNN [https://zh.wikipedia.org/wiki/有线电视新闻网 Wiki]
 |-
@@ -53,13 +53,17 @@
 |-
 | &nbsp; || [https://www.bloomberg.com/asia ASIA Page]
 |-
-| '''United Press International''' ||  UPI [https://zh.wikipedia.org/wiki/合众国际社 Wiki]
-|-
-| &nbsp; || [https://www.upi.com/search?ss=China/ CHN]
-|-
 | '''National Broadcasting Company''' || NBC [https://zh.wikipedia.org/wiki/全国广播公司 Wiki]
 |-
 | &nbsp; || [https://www.nbcnews.com/world/ Homepage]
+|-
+| '''Associated Press*''' ||  [https://zh.wikipedia.org/wiki/美联社 Wiki]
+|-
+| &nbsp; || [https://apnews.com/hub/china/ CHN]
+|-
+| '''United Press Internationa''' ||  UPI [https://zh.wikipedia.org/wiki/合众国际社 Wiki]
+|-
+| &nbsp; || [https://www.upi.com/search?ss=China/ CHN]
 |-
 | '''Yahoo''' ||  [https://zh.wikipedia.org/wiki/雅虎 Wiki]
 |-
@@ -81,23 +85,23 @@
 |-
 | &nbsp; || [https://www.reuters.com/world/china/ CHN]
 |-
-| '''The Guardian''' ||  [https://zh.wikipedia.org/wiki/衛報 Wiki]
-|-
-| &nbsp; || [https://www.theguardian.com/world/china/ CHN]
-|-
-| '''The Independent''' ||  [https://zh.wikipedia.org/wiki/獨立報_(英國) Wiki]
-|-
-| &nbsp; || [https://www.independent.co.uk/asia/china CHN]
-|-
 | '''The Economist''' ||  [https://zh.wikipedia.org/wiki/经济学人 Wiki]
 |-
 | &nbsp; || [https://www.economist.com/china/ CHN]
+|-
+| '''The Guardian''' ||  [https://zh.wikipedia.org/wiki/衛報 Wiki]
+|-
+| &nbsp; || [https://www.theguardian.com/world/china/ CHN]
 |-
 | '''Financial Times''' || [https://zh.wikipedia.org/wiki/金融時報_(英國) Wiki]
 |-
 | &nbsp; || [https://www.ftchinese.com/channel/china.html CN Page]
 |-
 | &nbsp; || [https://www.ft.com/world/asia-pacific/china/ CHN]
+|-
+| '''The Independent''' ||  [https://zh.wikipedia.org/wiki/獨立報_(英國) Wiki]
+|-
+| &nbsp; || [https://www.independent.co.uk/asia/china CHN]
 |}
 
 == Asia Pacific News Agency ==
@@ -147,7 +151,7 @@
 |-
 | '''Asahi Shimbun*''' || [https://zh.wikipedia.org/wiki/朝日新聞 Wiki]
 |-
-| Japan || [https://www.asahi.com/ Homeage]
+| Japan || [https://www.asahi.com/ Homepage]
 |}
 
 == U.S. Agency for Global Media ==
