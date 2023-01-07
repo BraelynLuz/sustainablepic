@@ -117,6 +117,10 @@
 |-
 | Singapore || [https://www.channelnewsasia.com/asia ASIA Page]
 |-
+| '''Lianhe Zaobao''' || [https://zh.wikipedia.org/wiki/联合早报 Wiki]
+|-
+| Singapore || [https://www.zaobao.com/ Homepage]
+|-
 | '''Al Jazeera''' || [https://zh.wikipedia.org/wiki/半岛电视台 Wiki]
 |-
 | Qatar || [https://www.aljazeera.com/news/ Homepage]
